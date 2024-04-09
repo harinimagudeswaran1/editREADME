@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=live+like+there+is+no+tomorrow+learn+like+there+are+more+days+to+live!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=red" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=live+like+there+is+no+tomorrow!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=red" alt="Example Usage - README Typing SVG">
 </p>
 
 <P align = "center">
